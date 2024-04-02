@@ -1,0 +1,4 @@
+This is Install Guide.
+
+1. Install GitHub Desktop
+2. Sign in to GitHub.com
